@@ -4,7 +4,7 @@ date: 2018-11-13 18:03:00
 category: the kitchen
 ---
 
-![](/images/8.jpg)
+![](/images/8.jpeg)
 
 Modern knives are generally speaking well made and carry their edge very well. There are even so a few simple rules which if followed can help your knives keep an edge for longer and will help them go longer.
 

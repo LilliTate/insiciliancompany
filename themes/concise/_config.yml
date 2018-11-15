@@ -1,13 +1,17 @@
 menu:
-  About: /about
-  Archives: /archives
-  RSS: /atom.xml
+  About: /about/
+  Archives: /archives/
+  Advice: /categories/advice/
+  Drinks: /categories/drinks/
+  Healthful: /categories/healthful/
+  The Kitchen: /categories/the-kitchen/
+  Travel F&B: /categories/travel-f-b/
 
 widgets:
 - search
 - recent_posts
 - category
-- tagcloud
+#- tagcloud
 
 excerpt_link: Read More ›
 

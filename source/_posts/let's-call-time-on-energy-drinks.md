@@ -4,7 +4,7 @@ date: 2017-04-28 16:11:00
 category: healthful
 ---
 
-![](/images/1.jpg)
+![](/images/1.jpeg)
 
 “Would you offer your kids 12 teaspoons of sugar and several espressos?” That’s the issue Jamie Oliver just lately asked in a good tweet, within his campaign to modify the sales of energy beverages in the UK.
 

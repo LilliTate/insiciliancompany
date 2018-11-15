@@ -4,7 +4,7 @@ date: 2017-12-25 16:54:00
 category: advice
 ---
 
-![](/images/3.jpg)
+![](/images/3.jpeg)
 
 <blockquote>
 Dietitian Karissa Woolfe provides health checklists for men within their 20s to their 60s, to help keep you healthier for longer.

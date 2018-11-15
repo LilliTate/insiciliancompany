@@ -4,7 +4,7 @@ date: 2017-07-07 16:38:00
 category: healthful
 ---
 
-![](/images/2.jpg)
+![](/images/2.jpeg)
 
 <blockquote>
 Taking good care of your foot is important for most of us, but for people with diabetes it needs special attention. Wellbeing reporter Catherine Milford clarifies.

@@ -4,7 +4,7 @@ date: 2018-10-19 17:45:00
 category: travel f&b
 ---
 
-![](/images/6.jpg)
+![](/images/6.jpeg)
 
 ## Whatever your take in size, type, or perhaps brew technique, we’ve got you covered
 
