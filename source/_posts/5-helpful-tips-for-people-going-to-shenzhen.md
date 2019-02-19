@@ -12,7 +12,7 @@ Inclusive as it is, Shenzhen is still a strange city for many expats. The follow
 
 #### Get Some Useful Local Telephone Numbers 
 
-![](/images/14.jpg)
+![](/images/14.jpeg)
 
 In case you have an emergency while you are visiting Shenzhen (such as fire or traffic accidents), or any other trouble, or have complaints or questions, writing down some telephone numbers may be useful.
 
