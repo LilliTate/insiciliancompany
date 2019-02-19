@@ -28,6 +28,8 @@ Emergency Numbers
 - Fire: 119
 - Traffic Accidents: 122
 
+<!-- more -->
+
 Complaints
 - Consumer complaints: 12315
 - Price complaints: 12358
