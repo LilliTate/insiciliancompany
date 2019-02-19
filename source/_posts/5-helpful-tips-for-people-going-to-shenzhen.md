@@ -64,7 +64,7 @@ Airline Companies & Major Airport Services
 - Futian bus station: 0755 - 83704526
 - Nanshan Bus Station: 0755 – 26162978
 
-If you need help or just want to know more information about Shenzhen, you can also look through some local informative newspapers or websites. Like (EyeShenzhen)[http://www.eyeshenzhen.com/], this is Shenzhen’s first English-language portal website, which provides precise, up-to-date and useful information for expats and visitors living in Shenzhen.
+If you need help or just want to know more information about Shenzhen, you can also look through some local informative newspapers or websites. Like [EyeShenzhen](http://www.eyeshenzhen.com/), this is Shenzhen’s first English-language portal website, which provides precise, up-to-date and useful information for expats and visitors living in Shenzhen.
 
 ![](/images/15.png)
 
